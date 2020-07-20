@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FBW-9-Abschlussprojekte/static/css/main.fce77ea0.chunk.css",
-    "main.js": "/FBW-9-Abschlussprojekte/static/js/main.bfd04840.chunk.js",
-    "main.js.map": "/FBW-9-Abschlussprojekte/static/js/main.bfd04840.chunk.js.map",
+    "main.js": "/FBW-9-Abschlussprojekte/static/js/main.1567b669.chunk.js",
+    "main.js.map": "/FBW-9-Abschlussprojekte/static/js/main.1567b669.chunk.js.map",
     "runtime-main.js": "/FBW-9-Abschlussprojekte/static/js/runtime-main.056e2e1b.js",
     "runtime-main.js.map": "/FBW-9-Abschlussprojekte/static/js/runtime-main.056e2e1b.js.map",
     "static/css/2.af3c1da9.chunk.css": "/FBW-9-Abschlussprojekte/static/css/2.af3c1da9.chunk.css",
     "static/js/2.781556aa.chunk.js": "/FBW-9-Abschlussprojekte/static/js/2.781556aa.chunk.js",
     "static/js/2.781556aa.chunk.js.map": "/FBW-9-Abschlussprojekte/static/js/2.781556aa.chunk.js.map",
     "index.html": "/FBW-9-Abschlussprojekte/index.html",
-    "precache-manifest.12fdd9b5326988b70ab6fdd1dd7ec348.js": "/FBW-9-Abschlussprojekte/precache-manifest.12fdd9b5326988b70ab6fdd1dd7ec348.js",
+    "precache-manifest.3bd5ace3f727e0c77313d2f5e950a12d.js": "/FBW-9-Abschlussprojekte/precache-manifest.3bd5ace3f727e0c77313d2f5e950a12d.js",
     "service-worker.js": "/FBW-9-Abschlussprojekte/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/FBW-9-Abschlussprojekte/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.fce77ea0.chunk.css.map": "/FBW-9-Abschlussprojekte/static/css/main.fce77ea0.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.781556aa.chunk.js",
     "static/css/main.fce77ea0.chunk.css",
-    "static/js/main.bfd04840.chunk.js"
+    "static/js/main.1567b669.chunk.js"
   ]
 }
