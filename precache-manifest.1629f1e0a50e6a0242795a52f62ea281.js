@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0f59133f10462c8e395e749a8f24cc4",
+    "revision": "5f537163fc600e4256d6910224af8169",
     "url": "/FBW-9-Abschlussprojekte/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FBW-9-Abschlussprojekte/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "da38e9a60402de440c0f",
+    "revision": "e7e0f02b9c344b7e4d5f",
     "url": "/FBW-9-Abschlussprojekte/static/css/main.fce77ea0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FBW-9-Abschlussprojekte/static/js/2.781556aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da38e9a60402de440c0f",
-    "url": "/FBW-9-Abschlussprojekte/static/js/main.4211dc92.chunk.js"
+    "revision": "e7e0f02b9c344b7e4d5f",
+    "url": "/FBW-9-Abschlussprojekte/static/js/main.5149f51d.chunk.js"
   },
   {
     "revision": "e319bbe73ab83fd07ef5",
