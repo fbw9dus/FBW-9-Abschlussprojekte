@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FBW-9-Abschlussprojekte/precache-manifest.1629f1e0a50e6a0242795a52f62ea281.js"
+  "/FBW-9-Abschlussprojekte/precache-manifest.9ff7bfabac8e668aee912a633c01a3f2.js"
 );
 
 self.addEventListener('message', (event) => {
